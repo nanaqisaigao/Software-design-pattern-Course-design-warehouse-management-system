@@ -9,11 +9,13 @@ import java.io.Reader;
 
 public class MybatisUtil {
 
-    private static SqlSessionFactory sqlSessionFactory = null;
+   private static SqlSessionFactory sqlSessionFactory = null;
 
     static {
         try {
+            // 获取SqlMapConfig.xml文件作为Reader对象
             Reader reader = Resources.getResourceAsReader("config/SqlMapConfig.xml");
+            // 使用SqlSessionFactoryBuilder构建SqlSessionFactory对象
             sqlSessionFactory = new SqlSessionFactoryBuilder().build(reader);
         } catch (Exception e) {
             e.printStackTrace();
@@ -21,6 +23,7 @@ public class MybatisUtil {
     }
 
     public static SqlSession getSession() {
+        // 使用SqlSessionFactory的openSession()方法获取SqlSession对象
         return sqlSessionFactory.openSession();
     }
 }

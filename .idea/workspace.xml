@@ -6,8 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="70ffbe93-313c-46ff-a96c-95004237b8d6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/config/jdbcConfig.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/config/jdbcConfig.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/singleton/SingleRegisterStage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/patterns/singleton/SingleRegisterStage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/MybatisUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/MybatisUtil.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,6 +126,7 @@
       <workItem from="1581047816872" duration="836000" />
       <workItem from="1699431063633" duration="5193000" />
       <workItem from="1699774838857" duration="311000" />
+      <workItem from="1699837819010" duration="8247000" />
     </task>
     <servers />
   </component>
