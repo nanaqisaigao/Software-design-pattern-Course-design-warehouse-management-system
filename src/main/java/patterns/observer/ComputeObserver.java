@@ -18,7 +18,9 @@ public class ComputeObserver implements Observer {
     public String response() {
         StringBuilder builder = new StringBuilder();
         for (int i = 0, len = list.size(); i < len; ++i) {
-            builder.append((i + 1) + ". " + list.get(i).getgName() + "; 放在" + list.get(i).getgShelf() + "货架; 进货" + list.get(i).getgCnt() + "件; 单价" + list.get(i).getgPrice() + "元; 成本为" + ((Math.round(list.get(i).getgPrice() * list.get(i).getgCnt() * 100)) / 100.0) + "元。\n");
+            builder.append((i + 1) + ". " + list.get(i).getgName() + "; 放在" + list.get(i).getgShelf() +
+                    "货架; 进货" + list.get(i).getgCnt() + "件; 单价" + list.get(i).getgPrice() + "元; 成本为"
+                    + ((Math.round(list.get(i).getgPrice() * list.get(i).getgCnt() * 100)) / 100.0) + "元。\n");
         }
         return builder.toString();
     }

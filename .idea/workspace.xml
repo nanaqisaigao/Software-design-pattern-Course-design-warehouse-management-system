@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70ffbe93-313c-46ff-a96c-95004237b8d6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/LoginController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/singleton/SingleRegisterStage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/patterns/singleton/SingleRegisterStage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/utils/MybatisUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/MybatisUtil.java" afterDir="false" />
+    <list default="true" id="70ffbe93-313c-46ff-a96c-95004237b8d6" name="Default Changelist" comment="zhushi">
+      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/prototype/Goods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/patterns/prototype/Goods.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,12 +123,24 @@
       <workItem from="1581047816872" duration="836000" />
       <workItem from="1699431063633" duration="5193000" />
       <workItem from="1699774838857" duration="311000" />
-      <workItem from="1699837819010" duration="8247000" />
+      <workItem from="1699837819010" duration="9506000" />
     </task>
+    <task id="LOCAL-00001" summary="zhushi">
+      <created>1699949157996</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699949157996</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="zhushi" />
+    <option name="LAST_COMMIT_MESSAGE" value="zhushi" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

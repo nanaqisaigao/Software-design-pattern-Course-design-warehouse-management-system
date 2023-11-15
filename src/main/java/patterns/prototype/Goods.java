@@ -58,10 +58,11 @@ public class Goods implements Cloneable {
     }
 
     // 每次点击添加按钮之后就克隆一个货物类
-    @Override
+  @Override
     public Object clone() {
         Goods goods = null;
         try {
+            //调用Object类的clone()方法，实现克隆
             goods = (Goods) super.clone();
         } catch (Exception e) {
             e.printStackTrace();
