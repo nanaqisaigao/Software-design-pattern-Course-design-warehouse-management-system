@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70ffbe93-313c-46ff-a96c-95004237b8d6" name="Default Changelist" comment="zhushi">
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/prototype/Goods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/patterns/prototype/Goods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,7 +123,8 @@
       <workItem from="1581047816872" duration="836000" />
       <workItem from="1699431063633" duration="5193000" />
       <workItem from="1699774838857" duration="311000" />
-      <workItem from="1699837819010" duration="9506000" />
+      <workItem from="1699837819010" duration="14441000" />
+      <workItem from="1704430907145" duration="16000" />
     </task>
     <task id="LOCAL-00001" summary="zhushi">
       <created>1699949157996</created>
